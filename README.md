@@ -11,3 +11,6 @@
 - 💬 Ask me about anything related to software engineering.
 - 📫 How to reach me via my email.
 - ⚡ Fun fact: I love teaching and explaining concepts!
+
+---
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Davidevlops=your-Davidevlops&show_icons=true&theme=radical)](https://github.com/Davidevlops)
