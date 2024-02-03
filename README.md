@@ -13,6 +13,4 @@
 - ⚡ Fun fact: I love teaching and explaining concepts!
 
 ---
-Github Stats:
-
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true&theme=radical)](https://github.com/Davidevlops)
