@@ -1,4 +1,4 @@
-### Hi there, I'm David 👋 nice meeting you 
+### Hi there, I'm David 👋 nice meeting you.
 
 
 **I'm a versatile full stack software engineer & Technical writer!!**
@@ -13,4 +13,6 @@
 - ⚡ Fun fact: I love teaching and explaining concepts!
 
 ---
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Davidevlops=your-Davidevlops&show_icons=true&theme=radical)](https://github.com/Davidevlops)
+Github Stats:
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true&theme=radical)](https://github.com/Davidevlops)
