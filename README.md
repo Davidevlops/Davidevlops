@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on interesting projects that involves buiding robust systems.
 - 🔥 I share my work and personal growth on social media to inspire others.
 - 💬 Ask me about anything related to software engineering.
-- reach me via [Email](davidgreendevlops@gmail.com)
+- 💼 reach me via [Email](davidgreendevlops@gmail.com)
 - ⚡ Fun fact: I love teaching and explaining concepts!
 
 ---
