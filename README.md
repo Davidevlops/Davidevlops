@@ -2,6 +2,7 @@
 
 
 **I'm a versatile full stack software engineer & Technical writer!!**
+---
 
 - 🔭 I’m currently working on Agritech.
 - 🌱 I’m currently learning software architecture and design.
