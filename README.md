@@ -1,7 +1,7 @@
-### Hi there, I'm David 👋 nice to have you on my page.
+### Hi there, I'm David 👋 nice having you on my page.
 
 
-**I'm a dedicated software engineer & software documentation specialist!!**
+**I'm a versatile software engineer & Technical writer!!**
 ---
 
 - 🔭 I’m currently working on Agritech.
