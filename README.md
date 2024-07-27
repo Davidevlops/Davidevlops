@@ -5,7 +5,8 @@ I'm a passionate **Software Engineer** and **Digital Marketing Strategist**. I l
 
 #### Software Engineering
 - 🔭 I’m currently working on full-stack web development projects, focusing on performance and scalability.
-- 🛠️ My expertise includes Python, JavaScript, React, Node.js, and cloud technologies.
+- 🛠️ My expertise includes Python, JavaScript, TypeScript, Node.js, Nest, Django and cloud technologies.
+- ✅ check my [Portfolio](https://davidinnovates.surge.sh/) for more information about my skills and experiences.
 - 🌱 I’m currently learning advanced data analytics, machine learning, and AI-driven solutions.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 
