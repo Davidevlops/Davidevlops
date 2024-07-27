@@ -1,5 +1,4 @@
 # Hi there, I'm David 👋 Welcome to my GitHub profile!
----
 
 ## About Me
 I'm a passionate **Software Engineer** and **Digital Marketing Strategist**. I love building robust software solutions and driving online growth for businesses.
@@ -22,14 +21,12 @@ I'm a passionate **Software Engineer** and **Digital Marketing Strategist**. I l
 
 ## Connect with Me
 Feel free to reach out if you want to discuss potential collaborations or just want to chat about the latest in tech and marketing!
-[![email](https://img.shields.io/badge/Email-blue)](davidgreendevlops@gmail.com)
+[Email](davidgreendevlops@gmail.com)
 
----
 ## My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true)](https://github.com/Davidevlops)
 
----
 ## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
