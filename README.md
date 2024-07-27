@@ -14,8 +14,9 @@
 ---
 My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true&theme=radical)](https://github.com/Davidevlops)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true)](https://github.com/Davidevlops)
 
 ---
 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidevlops&layout=compact)](https://github.com/davidevlops)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
