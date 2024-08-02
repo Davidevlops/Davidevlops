@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** and **Tech Marketing Strategist**. I love
 - ⚡ Fun fact: I blend coding and creativity to craft unique digital experiences!
 
 ## Connect with Me
-Feel free to reach out if you want to discuss potential collaborations or just want to chat about the latest in tech and marketing!
+Feel free to reach out if you want to discuss potential collaborations or just want to chat about the latest in tech and marketing via my
 [Email](davidgreendevlops@gmail.com)
 
 ## My GitHub Stats
