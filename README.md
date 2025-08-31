@@ -22,7 +22,7 @@ I'm a passionate **Software Engineer** and **Tech Marketing Strategist**. I love
 
 ## Connect with Me
 Feel free to reach out if you want to discuss potential collaborations or just want to chat about the latest in tech and marketing via my
-[Email](davidgreendevlops@gmail.com)
+[Email](connect@davidinnovates.xyz)
 
 ## My GitHub Stats
 
