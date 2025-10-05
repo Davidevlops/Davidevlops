@@ -17,7 +17,7 @@ I'm a passionate **Software Engineer** and **Tech Marketing Strategist**. I love
 #### Contact Me
 - 💬 Ask me about software development, Tech marketing, or any interesting tech trends!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-olabode) | [Twitter](https://twitter.com/0x1P2)
-- ✅ check my [Portfolio](https://davidinnovates.surge.sh/) for more information about my skills and experiences.
+- ✅ check my [Portfolio](https://davidinnovates.xyz/) for more information about my skills and experiences.
 - ⚡ Fun fact: I blend coding and creativity to craft unique digital experiences!
 
 ## Connect with Me
