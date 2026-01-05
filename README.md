@@ -30,4 +30,4 @@ Feel free to reach out if you want to discuss potential collaborations or just w
 
 ## Most Used Languages
 
-[![Top Langs](https:/my-github-readme-stats-zeta.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
+[![Top Langs](https://my-github-readme-stats-zeta.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
