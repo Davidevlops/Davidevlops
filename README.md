@@ -26,8 +26,8 @@ Feel free to reach out if you want to discuss potential collaborations or just w
 
 ## My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidevlops&show_icons=true)](https://github.com/Davidevlops)
+[![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=Davidevlops&show_icons=true)](https://github.com/Davidevlops)
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
+[![Top Langs](https:/my-github-readme-stats-zeta.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
