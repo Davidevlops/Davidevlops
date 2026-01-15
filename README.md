@@ -1,33 +1,29 @@
-# Hi there, I'm David 👋 Welcome to my GitHub profile!
+# Hi there, I'm David 👋 Welcome to my GitHub!
 
 ## About Me
-I'm a passionate **Software Engineer** and **Tech Marketing Strategist**. I love building robust software solutions and driving online growth for tech businesses.
+I’m a **Software Engineer** specializing in **Backend Development and Automation**. I design and build scalable, high-performance systems and automation pipelines that solve complex problems efficiently.  
 
-#### Software Engineering
-- 🔭 I’m currently working on full-stack web development projects, focusing on performance and scalability.
-- 🛠️ My expertise includes Python, JavaScript, TypeScript, Node.js, Nest, Django and cloud technologies.
-- 🌱 I’m currently learning advanced data analytics, machine learning, and AI-driven solutions.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+I love turning intricate backend challenges into seamless, maintainable solutions while keeping an eye on modern cloud practices.
 
-#### Tech Marketing
-- 📈 I specialize in SEO, content marketing, and data-driven strategies to enhance online presence.
-- 🌐 Experienced in leveraging tools like Google Analytics, SEMrush, and social media platforms for growth.
-- 🤔 I’m looking for help with expanding my network in the digital marketing community.
+### Backend & Automation
+- 🔭 Building **robust backend systems** and **automation workflows** that improve efficiency and reliability.
+- 🛠️ Expertise in **Python, JavaScript, TypeScript, Node.js, NestJS, Django**, and **REST/GraphQL APIs**.
+- ⚡ Skilled in **automation pipelines, task orchestration, and CI/CD** to streamline development.
+- 🌱 Currently exploring **advanced automation, distributed systems, and cloud-optimized backend solutions**.
+- 👯 Open to collaboration on **open-source projects** or backend/automation challenges.
 
-#### Contact Me
-- 💬 Ask me about software development, Tech marketing, or any interesting tech trends!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-olabode) | [Twitter](https://twitter.com/0x1P2)
-- ✅ check my [Portfolio](https://davidinnovates.xyz/) for more information about my skills and experiences.
-- ⚡ Fun fact: I blend coding and creativity to craft unique digital experiences!
+### Cloud & Architecture (light touch)
+- ☁️ Familiar with **cloud platforms** (AWS, GCP, Azure) and designing **cloud-friendly backend solutions**.
+- 🏗️ Experience with **microservices and containerized applications** for scalable systems.
 
-## Connect with Me
-Feel free to reach out if you want to discuss potential collaborations or just want to chat about the latest in tech and marketing via my
-[Email](connect@davidinnovates.xyz)
+### Contact Me
+- 💬 Ask me about **backend engineering, automation, or modern software architecture**.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/david-olabode) | [Twitter](https://twitter.com/0x1P2) | [Email](mailto:connect@davidinnovates.xyz)
+- ✅ Check my [Portfolio](https://davidinnovates.xyz/) for projects and examples of my work.
+- ⚡ Fun fact: I combine **automation efficiency with clean backend design** to create systems that scale.
 
-## My GitHub Stats
-
+## GitHub Stats
 [![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=Davidevlops&show_icons=true)](https://github.com/Davidevlops)
 
 ## Most Used Languages
-
 [![Top Langs](https://my-github-readme-stats-zeta.vercel.app/api/top-langs/?username=Davidevlops)](https://github.com/davidevlops)
