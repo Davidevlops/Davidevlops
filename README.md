@@ -7,7 +7,7 @@ I love turning intricate backend challenges into seamless, maintainable solution
 
 ### Backend & Automation
 - 🔭 Building **robust backend systems** and **automation workflows** that improve efficiency and reliability.
-- 🛠️ Expertise in **Python, JavaScript, TypeScript, Node.js, NestJS, Django**, and **REST/GraphQL APIs**.
+- 🛠️ Expertise in **Golang, Python, JavaScript, TypeScript, Node.js, NestJS, Django**, and **REST,GraphQL APIs, gRPC**.
 - ⚡ Skilled in **automation pipelines, task orchestration, and CI/CD** to streamline development.
 - 🌱 Currently exploring **advanced automation, distributed systems, and cloud-optimized backend solutions**.
 - 👯 Open to collaboration on **open-source projects** or backend/automation challenges.
